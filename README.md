@@ -8,11 +8,14 @@ A felületet a következő minta alapján készítse el (a felület, csak a funk
 
 a) változat  
 Készítsen osztály a könyv kölcsönzésére. Az osztály szövegként adja meg, milyen esemény történt utoljára.  
+![image](https://user-images.githubusercontent.com/6060514/112279575-597f0380-8c84-11eb-86b4-af42bc23a73a.png)
 
 
 b) változat  
 Készítsen osztályt a könyv kölcsönzésére. Az osztály tartsa nyilván az unoka nevét és az unokánál lévő könyvek számát.  
+![image](https://user-images.githubusercontent.com/6060514/112279612-63a10200-8c84-11eb-8942-6c0d67dea8b0.png)
 
 
 c) változat  
 Készítsen osztály a könyv kölcsönzésre. Az osztály tartsa nyilván az unoka nevét és hogy hány könyvet kölcsönzött ki és hány könyvet hozott vissza az unoka.  
+![image](https://user-images.githubusercontent.com/6060514/112279632-6a2f7980-8c84-11eb-8046-536b03d6b695.png)
