@@ -19,3 +19,6 @@ Készítsen osztályt a könyv kölcsönzésére. Az osztály tartsa nyilván az
 c) változat  
 Készítsen osztály a könyv kölcsönzésre. Az osztály tartsa nyilván az unoka nevét és hogy hány könyvet kölcsönzött ki és hány könyvet hozott vissza az unoka.  
 ![image](https://user-images.githubusercontent.com/6060514/112279632-6a2f7980-8c84-11eb-8046-536b03d6b695.png)
+
+A képernyzőn jelenjen meg egy összesítő is:  
+Eddig az unokák 10 könyvet kölcsönöztek ki, 6 könyvet hoztak vissza és 4 könyv van nálluk.  
